@@ -4,10 +4,10 @@
 	"repository": "https://github.com/devolart/rclone-index",
 	"env": {
 		"CONFIG_BASE64": {
-			"description": "Rclone config that has been encoded with base64. You can use https://emn178.github.io/online-tools/base64_encode.html to encode your rclone.conf content, copy the encoded config, and paste it to this variable."
+			"description": "W2RyXQp0eXBlID0gZHJvcGJveAp0b2tlbiA9IHsiYWNjZXNzX3Rva2VuIjoic2wuQnZlRHAwTU82ZG9LTndKNk54Q1FJbk92VE94U1FQX0liLUNaWXl1NG9mU0E0Q2lzNDlfWF9nUzQ4WlNOZVoxWVh4RkxjLW1TTFVkV1ZLS3ZFamNIT2lHS003WFV6WmZtd2NfQmlnWldMZmR2ZUlmVlI5VGw1SXM2ZkU0RHpFYTAyWERETFlSZnFlNlFTX1UiLCJ0b2tlbl90eXBlIjoiYmVhcmVyIiwicmVmcmVzaF90b2tlbiI6IllBbm9haFQyYkVrQUFBQUFBQUFBQWRFdDNqZzRFZkgwdE05Rzh5UGx5aVl2UjJYcTlFUGMwemRHbzZhaEgyN1MiLCJleHBpcnkiOiIyMDI0LTAyLTEyVDE5OjA4OjM5LjM4Mjk3OTE3OFoifQ=="
 		},
 		"CONFIG_URL": {
-			"description": "Raw rclone config URL. You can use https://gist.github.com, create a hidden gist, paste your rclone.conf content, save it, and copy the raw URL of that gist."
+			"description": "https://gist.githubusercontent.com/Khanomix/ad73c010b2e024a29522438cf56398c4/raw/rclone.conf"
 		},
         "USERNAME": {
 			"description": "Username for authentication (leave blank for no auth). It must be paired with PASSWORD variable if you want to add authentication."
